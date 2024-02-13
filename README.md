@@ -6,7 +6,7 @@
 ---
 ### deploy streamlit app:
 
-https://mia-proj3.streamlit.app/
+https://ticker-tracker.streamlit.app/
 
 ---
 
