@@ -2,6 +2,7 @@
 
 # Stock Analysis App
 
+![dashboard](./app.png)
 ---
 ### deploy streamlit app:
 
