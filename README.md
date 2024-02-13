@@ -2,6 +2,13 @@
 
 # Stock Analysis App
 
+---
+### deploy streamlit app:
+
+https://mia-proj3.streamlit.app/
+
+---
+
 ## Project Overview
 
 This Streamlit application provides an interactive platform for the analysis of stock data, leveraging `yfinance` to fetch real-time financial data. It aims to simplify stock market analysis by offering detailed visualizations and statistical insights, thus serving as a valuable tool in the fintech domain by aiding in investment decision-making.
